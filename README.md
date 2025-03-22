@@ -1,6 +1,6 @@
-## Hello, I'm Abdelrahman Ahmed
+### Hello, I'm Abdelrahman Ahmed
 
-### I'm a:
+## I'm a:
 - Undergraduate student @ Coventry University
 - Aspiring Web-Devloper
 - Passionate Learner
