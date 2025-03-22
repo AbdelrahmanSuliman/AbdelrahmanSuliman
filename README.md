@@ -10,7 +10,7 @@
 - ReactJS
 
 ## Interested in:
-- Full-Stak Development
+- Full-Stack Development
 - Open-Source Contribution
 - Anything Web-Dev 
 ---
