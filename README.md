@@ -1,4 +1,4 @@
-### Hello, I'm Abdelrahman Ahmed
+# Hello, I'm Abdelrahman Ahmed
 
 ## I'm a:
 - Undergraduate student @ Coventry University
