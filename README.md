@@ -1,6 +1,8 @@
 ## Hello, I'm Abdelrahman Ahmed
 
-Undergraduate @ Coventry University  
-Full-Stack Developer
+### I'm a:
+- Undergraduate student @ Coventry University
+- Aspiring Web-Devloper
+- Passionate Learner
 
-I like learning about web development tools and interested in open-source contribution!
+
