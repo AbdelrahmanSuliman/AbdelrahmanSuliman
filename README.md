@@ -8,15 +8,6 @@
 
 I'm a **passionate learner** diving headfirst into the world of Web Development. I enjoy solving complex problems (you can often find me on [LeetCode](https://leetcode.com/u/AbdelrahmanSuliman/)!) and building meaningful applications.
 
----
-
-### 📊 GitHub Activity:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanSuliman&show_icons=true&theme=radical" alt="Abdelrahman's GitHub Stats"/>
-</p>
-
----
 
 ### 📬 Get In Touch:
 
