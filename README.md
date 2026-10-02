@@ -57,9 +57,15 @@ I have a passion for designing beautiful and intuitive web interfaces. Here are 
   A website for a cozy cafe, made to be classy and comforting with generous use of whitespace and product images.  
   **Live:** [View Site](https://coffee-town.vercel.app/)
 
+- **Pour Cafe**  
+  A website for a modern and sleek cafe featuring minimalist visuals.  
+  **Live:** [View Site](https://frontend-cafe-eight.vercel.app/)
+
 - **Brisk & Brew**  
   A website for an Egyptian restaurant with a bold, expressive visual style.  
   **Live:** [View Site](https://restaurant-demo-taupe.vercel.app/)
+
+  
 ## Tech I Work With
 
 ### Frontend
