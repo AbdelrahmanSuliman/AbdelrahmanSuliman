@@ -1,29 +1,10 @@
 # Hey, I'm Abdelrahman Ahmed
 
-Full-stack software engineer who likes turning messy real-world problems into clean, useful software.
+## A bit about me:
 
-I build projects, experiment with AI, and I’m currently sharpening my skills in cloud architecture, full-stack systems, and CI/CD pipelines.
-
----
-
-## A Bit About Me
-
-When I’m not on the laptop, I’m probably:
-
-- Going for walks
-- Hunting for good dessert spots
-- Training calisthenics
-- Thinking about the next thing I want to build
-
----
-
-## What I'm Into Right Now
-
-- Full-stack development
-- Cloud architecture
-- CI/CD pipelines
-- AI-powered applications
-- Building projects that solve actual business problems
+- I tried and failed more times than I'd like to admit
+- Working on building a Muslim tech community in Calgary
+- I like hackathons :)
 
 ---
 ## Highlights
